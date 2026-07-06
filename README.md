@@ -1,6 +1,9 @@
 # Perturbed Lambert Solvers — AMDR Benchmark
 
-MATLAB implementation and benchmark suite for eight perturbed Lambert solvers under a
+This repository contains the codebase accompanying the publication *"Backward Picard-Chebyshev Integration Improving Convergence and Efficiency in Perturbed Lambert Solvers"* by Elad Denenberg and Adham Salih.
+_Full citation will be added upon publication._
+
+It is a MATLAB implementation and benchmark suite for eight perturbed Lambert solvers under a
 full J2–J6 + atmospheric drag + solar radiation pressure + lunar perturbation force
 model. Includes a 75,000-case benchmark, convergence history analysis, and a
 T\_switch/N\_switch sensitivity grid. All results and figures are reproducible from a
