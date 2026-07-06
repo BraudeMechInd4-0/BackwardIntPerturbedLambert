@@ -1,6 +1,7 @@
 # Perturbed Lambert Solvers — AMDR Benchmark
 
-This repository contains the codebase accompanying the publication *"Backward Picard-Chebyshev Integration Improving Convergence and Efficiency in Perturbed Lambert Solvers"* by Elad Denenberg and Adham Salih.
+This repository contains the codebase accompanying the publication **"Backward Picard-Chebyshev Integration Improving Convergence and Efficiency in Perturbed Lambert Solvers"** by Elad Denenberg and Adham Salih.
+
 _Full citation will be added upon publication._
 
 It is a MATLAB implementation and benchmark suite for eight perturbed Lambert solvers under a
